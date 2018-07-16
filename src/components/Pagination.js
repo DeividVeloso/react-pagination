@@ -199,3 +199,5 @@ Pagination.propTypes = {
 };
 
 export default Pagination
+
+//https://scotch.io/tutorials/build-custom-pagination-with-react
